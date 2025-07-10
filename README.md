@@ -15,6 +15,7 @@ This Power BI dashboard offers deep insights into Prime Video’s content catalo
 ## 🗂️ 4. Data Source  
 - Prime Video Dataset sourced from open repositories and cleaned in Excel  
 - Contains metadata of over 9,000 titles including genres, ratings, countries, duration, and release years
+- Data Collected from Google
 
 ## ✨ 5. Features / Highlights  
 - ✅ Total overview of available content: titles, ratings, countries, directors  
