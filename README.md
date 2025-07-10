@@ -50,4 +50,5 @@ Prime Video's expanding content library needs structured insights to guide decis
 Perfect for demonstrating dashboard development, storytelling with data, and entertainment domain analysis. Ideal for roles in business analytics, BI consulting, or data visualization.
 
 Screenshots/ Demos
+https://github.com/ManishGit05/PrimeVideoPowerBi_Project/blob/main/Prime%20Video%20PowerBi.png
 
